@@ -1,6 +1,7 @@
 # 02 - Navigation and Nested Routes
 
 Docs: http://guides.emberjs.com/v1.12.0/routing/
+
 Api: http://emberjs.com/api/
 
 ## Links

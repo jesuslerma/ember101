@@ -1,6 +1,7 @@
 # 01 - Routing Intro
 
 Docs: http://guides.emberjs.com/v1.12.0/routing/
+
 Api: http://emberjs.com/api/
 
 ## Intro
