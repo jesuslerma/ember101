@@ -1,7 +1,6 @@
-# Routing
+# 01 - Routing Intro
 
 Docs: http://guides.emberjs.com/v1.12.0/routing/
-Bonus video: https://vimeo.com/68390483
 
 ## Intro
 
@@ -87,3 +86,7 @@ Ember.js automatically figures out the names of the routes and controllers based
     <td>↳<code>favorites.hbs</code></td>
   </tr>
 </table>
+
+## Extra
+
+video: https://vimeo.com/68390483
