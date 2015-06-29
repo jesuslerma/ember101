@@ -1,4 +1,4 @@
-# 02 - Routing Navigation and Nested Routes
+# 02 - Navigation and Nested Routes
 
 ## Links
 
