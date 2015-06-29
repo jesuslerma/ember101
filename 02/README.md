@@ -1,5 +1,8 @@
 # 02 - Navigation and Nested Routes
 
+Docs: http://guides.emberjs.com/v1.12.0/routing/
+Api: http://emberjs.com/api/
+
 ## Links
 
 Inside your templates, you can use `{{link-to}}` to navigate between routes, using the name that you provided to the route method (or, in the case of /, the name index).
