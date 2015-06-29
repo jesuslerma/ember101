@@ -33,7 +33,7 @@ Now the index page (`/`) will have a description of the blog.
 * And when I click to the post title
 * Then I go to the post's page
 
-### Watching a posts 
+### Master - detail
 
 * As a reader of your blog
 * When I visit posts index page
@@ -42,3 +42,8 @@ Now the index page (`/`) will have a description of the blog.
 * When I click to the title of a post
 * Then the content of the post should be shown in the center of the page
 * And the path should change to `posts/:post_name`
+
+### Bonus:
+
+* Use an array of objects to fill your blog
+* Add another post
