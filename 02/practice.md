@@ -21,29 +21,12 @@ For the purpose of the exercise your posts are:
 * I should see a page with the content of that post (in the path `posts/my-post-one` or `posts/my-post-two`)
 * When I click back I should see the index page again
 
-### An intro page
-
-Now the index page (`/`) will have a description of the blog.
-
-* As a reader of your blog
-* When I visit the index page (`/`)
-* I should see a description of the blog
-* When I click on the link "Posts"
-* Then I should be on the path `/posts` and watching the a list with the titles of all your posts.
-* And when I click to the post title
-* Then I go to the post's page
-
 ### Master - detail
 
 * As a reader of your blog
-* When I visit posts index page
+* When I visit index page
 * I should see a sidebar with the lists of all your posts (master)
 * And the center of the page should be empty
 * When I click to the title of a post
 * Then the content of the post should be shown in the center of the page
 * And the path should change to `posts/:post_name`
-
-### Bonus:
-
-* Use an array of objects to fill your blog
-* Add another post
